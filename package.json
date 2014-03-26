@@ -1,0 +1,33 @@
+{
+  "name": "a_post_in_time",
+  "description": "Reddit Bot for 4chan Posts",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "Adam Schodde",
+      "email": "sparky1010+github@gmail.com",
+      "web": "http://www.quailcity.com"
+    }
+  ],
+  "dependencies": {
+    "reddit-api": "0.0.24"
+  },
+  "devDependencies": {},
+  "repository": [
+    {
+      "type": "git",
+      "url": "https://github.com/brutalhonesty/a_post_in_time.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "http://www.tldrlegal.com/license/mit-license"
+    }
+  ],
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {}
+}
